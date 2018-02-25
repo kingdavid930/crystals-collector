@@ -2,6 +2,7 @@ h1{
     background-color: orangered;
     color: white;
     border-style: dashed;
+    width: 30%;
 }
 
 
@@ -9,6 +10,7 @@ h1{
     background-color: beige;
     color: green;
     border-style: dashed;
+    width: 50%;
 }
 
 body{
@@ -17,13 +19,39 @@ body{
     
 }
 
-.totalnumber{
 
+#MatchingNumbers{
+    font-size: 24px;
     background-color: green;
+    width: 25%;
     border-style: dashed;
-    height: 100 px;
-    width: 50 px;
+    padding: 20px;
+    margin: 25px;
+    float: right;
     
 
 
+}
+
+
+
+
+#winAndLosses{
+    background-color: teal;
+    width: 15%;
+    border-style: dashed;
+
+
+}
+
+ul{
+    background-color: white;
+}
+
+#totalScore{
+    background-color: green;
+    color: white;
+    width: 20%;
+    border-style: dashed;
+    
 }
