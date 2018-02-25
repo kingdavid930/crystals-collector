@@ -1,0 +1,29 @@
+h1{
+    background-color: orangered;
+    color: white;
+    border-style: dashed;
+}
+
+
+.instructions{
+    background-color: beige;
+    color: green;
+    border-style: dashed;
+}
+
+body{
+    background-image: url("https://image.freepik.com/free-vector/abstract-geometric-pattern-background_1319-242.jpg")
+    
+    
+}
+
+.totalnumber{
+
+    background-color: green;
+    border-style: dashed;
+    height: 100 px;
+    width: 50 px;
+    
+
+
+}
